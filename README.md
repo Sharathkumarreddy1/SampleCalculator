@@ -29,6 +29,7 @@ calculator/
 
 📌 Usage
 - Clone the repository:
+  https://github.com/Sharathkumarreddy1/SampleCalculator.git
 - Open index.html in your browser.
 - Start calculating!
 
